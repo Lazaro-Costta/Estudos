@@ -1,0 +1,37 @@
+body {
+    background-image: url(/assets/Design\ sem\ nome\ \(1\).png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
+h1, p {font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-weight: 600;
+    
+}
+
+section {
+    background-color: rgba(105, 105, 105, 0.364);
+    position: relative;
+    width:800px;
+    padding-left:  34px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 22px;
+    margin: auto;
+
+
+
+}
